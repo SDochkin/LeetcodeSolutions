@@ -11,3 +11,4 @@
 * [119. Pascal's Triangle II](119.-pascals-triangle-ii.md)
 * [217. Contains Duplicate](217.-contains-duplicate.md)
 * [1. Two Sum](1.-two-sum.md)
+* [88. Merge Sorted Array](88.-merge-sorted-array.md)
