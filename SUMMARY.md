@@ -12,3 +12,4 @@
 * [217. Contains Duplicate](217.-contains-duplicate.md)
 * [1. Two Sum](1.-two-sum.md)
 * [88. Merge Sorted Array](88.-merge-sorted-array.md)
+* [53. Maximum Subarray](53.-maximum-subarray.md)
