@@ -1,0 +1,12 @@
+# Table of contents
+
+* [441. Arranging Coins](README.md)
+* [852. Peak Index in a Mountain Array](852.-peak-index-in-a-mountain-array.md)
+* [733. Flood Fill](733.-flood-fill.md)
+* [463. Island Perimeter](463.-island-perimeter.md)
+* [500. Keyboard Row](500.-keyboard-row.md)
+* [501. Find Mode in Binary Search Tree](501.-find-mode-in-binary-search-tree.md)
+* [232. Implement Queue using Stacks](232.-implement-queue-using-stacks.md)
+* [118. Pascal's Triangle](118.-pascals-triangle.md)
+* [119. Pascal's Triangle II](119.-pascals-triangle-ii.md)
+* [217. Contains Duplicate](217.-contains-duplicate.md)
