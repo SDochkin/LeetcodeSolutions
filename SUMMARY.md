@@ -14,3 +14,4 @@
 * [88. Merge Sorted Array](88.-merge-sorted-array.md)
 * [53. Maximum Subarray](53.-maximum-subarray.md)
 * [350. Intersection of Two Arrays II](350.-intersection-of-two-arrays-ii.md)
+* [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
