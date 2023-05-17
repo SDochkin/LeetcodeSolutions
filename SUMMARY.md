@@ -19,3 +19,4 @@
 * [121. Best Time to Buy and Sell Stock](121.-best-time-to-buy-and-sell-stock.md)
 * [566. Reshape the Matrix](566.-reshape-the-matrix.md)
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
+* [20. Valid Parentheses](20.-valid-parentheses.md)
