@@ -20,3 +20,4 @@
 * [566. Reshape the Matrix](566.-reshape-the-matrix.md)
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
 * [20. Valid Parentheses](20.-valid-parentheses.md)
+* [74. Search a 2D Matrix](74.-search-a-2d-matrix.md)
