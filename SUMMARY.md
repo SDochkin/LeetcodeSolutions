@@ -22,3 +22,4 @@
 * [20. Valid Parentheses](20.-valid-parentheses.md)
 * [74. Search a 2D Matrix](74.-search-a-2d-matrix.md)
 * [383. Ransom Note](383.-ransom-note.md)
+* [242. Valid Anagram](242.-valid-anagram.md)
