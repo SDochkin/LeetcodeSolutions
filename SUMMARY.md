@@ -24,3 +24,4 @@
 * [383. Ransom Note](383.-ransom-note.md)
 * [242. Valid Anagram](242.-valid-anagram.md)
 * [13. Roman to Integer](13.-roman-to-integer.md)
+* [14. Longest Common Prefix](14.-longest-common-prefix.md)
