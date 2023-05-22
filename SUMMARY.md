@@ -27,3 +27,4 @@
 * [14. Longest Common Prefix](14.-longest-common-prefix.md)
 * [21. Merge Two Sorted Lists](21.-merge-two-sorted-lists.md)
 * [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
+* [28. Find the Index of the First Occurrence in a String](28.-find-the-index-of-the-first-occurrence-in-a-string.md)
