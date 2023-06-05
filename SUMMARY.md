@@ -32,3 +32,4 @@
 * [412. Fizz Buzz](412.-fizz-buzz.md)
 * [70. Climbing Stairs](70.-climbing-stairs.md)
 * [125. Valid Palindrome](125.-valid-palindrome.md)
+* [136. Single Number](136.-single-number.md)
