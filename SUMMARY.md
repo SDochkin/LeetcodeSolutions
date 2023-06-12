@@ -36,3 +36,4 @@
 * [169. Majority Element](169.-majority-element.md)
 * [268. Missing Number](268.-missing-number.md)
 * [171. Excel Sheet Column Number](171.-excel-sheet-column-number.md)
+* [1768. Merge Strings Alternately](1768.-merge-strings-alternately.md)
