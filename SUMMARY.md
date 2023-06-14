@@ -38,3 +38,4 @@
 * [171. Excel Sheet Column Number](171.-excel-sheet-column-number.md)
 * [1768. Merge Strings Alternately](1768.-merge-strings-alternately.md)
 * [389. Find the Difference](389.-find-the-difference.md)
+* [459. Repeated Substring Pattern](459.-repeated-substring-pattern.md)
