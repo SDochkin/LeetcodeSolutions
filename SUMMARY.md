@@ -40,3 +40,4 @@
 * [389. Find the Difference](389.-find-the-difference.md)
 * [459. Repeated Substring Pattern](459.-repeated-substring-pattern.md)
 * [283. Move Zeroes](283.-move-zeroes.md)
+* [1822. Sign of the Product of an Array](1822.-sign-of-the-product-of-an-array.md)
