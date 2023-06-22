@@ -42,3 +42,4 @@
 * [283. Move Zeroes](283.-move-zeroes.md)
 * [1822. Sign of the Product of an Array](1822.-sign-of-the-product-of-an-array.md)
 * [1502. Can Make Arithmetic Progression From Sequence](1502.-can-make-arithmetic-progression-from-sequence.md)
+* [896. Monotonic Array](896.-monotonic-array.md)
